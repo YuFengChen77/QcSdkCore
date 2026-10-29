@@ -12,7 +12,7 @@ let package = Package(
     dependencies: [],
 
     targets: [
-        .binaryTarget(name: "QcSdkCore", url: "https://github.com/YuFengChen77/QcSdkCore/releases/download/1.1.2/QcSdkCore-1.1.2.xcframework.zip", checksum: "07d8b3c3a51fe7c027085d45df87d57d5cd1e2fbadc8c2339a1f1666a1ac21b2"),
+        .binaryTarget(name: "QcSdkCore", url: "https://github.com/YuFengChen77/QcSdkCore/releases/download/1.1.3/QcSdkCore-1.1.3.xcframework.zip", checksum: "7156faf55cbeec03c68ae2ab2196a678e4cf9463aa3403d518aa9801643b35da"),
 
         .target(name: "QcSdkCoreDistribution", dependencies: ["QcSdkCore"], path: "QcSdkCore", sources: ["Sources"], resources: [.process("Resources")])
     ]

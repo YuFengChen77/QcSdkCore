@@ -1,0 +1,22 @@
+/* Locale: zh-Hant */
+"qc_confirm" = "確定";
+"qc_cancel" = "取消";
+"qc_retry" = "重試";
+"qc_not_login" = "尚未登入";
+"qc_please_login" = "請先登入";
+"qc_login_fail" = "登入失敗";
+"qc_login_type_not_support" = "不支援此登入方式";
+"qc_params_error" = "參數錯誤";
+"qc_purchase_fail" = "購買失敗";
+"qc_product_query_fail" = "無法找到商品";
+"qc_network_error" = "網路錯誤";
+"qc_server_error" = "伺服器錯誤";
+"qc_unknow_error" = "未知錯誤";
+"qc_user_center" = "用戶中心";
+"qc_token_invalid" = "登入狀態已失效";
+"qc_dialog_prompt" = "提示";
+
+// Purchase loading
+"qc_loading_ordering" = "下單中...";
+"qc_loading_verifying" = "校驗中...";
+"qc_loading_paying" = "支付中...";
